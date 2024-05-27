@@ -1,2 +1,2 @@
-# turbo-obfuscate
+# TurboObfuscate
 Tool for obfuscating Scratch projects.
